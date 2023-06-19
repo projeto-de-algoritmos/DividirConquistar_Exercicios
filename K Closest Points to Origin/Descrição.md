@@ -7,3 +7,5 @@ Para medir a proximidade de um ponto em relação à origem, usamos a distância
 O objetivo é retornar os k pontos que estão mais próximos da origem. Podemos apresentar a resposta em qualquer ordem, mas sabemos que a resposta será única, exceto pela ordem dos pontos.
 
 Para resolver o problema, precisamos calcular a distância euclidiana entre cada ponto e a origem. Em seguida, selecionamos os k pontos com as menores distâncias e os retornamos como resultado.
+
+[Solução desenvolvida](https://leetcode.com/problems/k-closest-points-to-origin/submissions/974712638/)
