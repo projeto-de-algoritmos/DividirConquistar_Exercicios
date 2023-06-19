@@ -21,12 +21,15 @@ Nesse sentido, foram selecionados e resolvidos 4 exercícios no que tange a algo
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/72623771/be973638-7dee-434c-9125-95f87efdf105)
 [Código](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/blob/33d59961ef12f0d35ea58b62d9d0132ac30e29bc/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.java)
 
-## Exercício 2 - nome do exercício
+## Exercício 2 - Multiply Strings
+
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/72623771/57b09130-e201-4e9e-b4ac-8bd6f21c5941)
+[Código](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/tree/66f385924164b6ea7c5d1e18c4f05ec0bb57ecb2/Multiply%20Strings)
+
+## Exercício 3 - nome do exercício
 
 link para o código
 print do accepted com código
-
-## Exercício 3 - xxxx
 
 ## Exercício 4 - xxxx
 
