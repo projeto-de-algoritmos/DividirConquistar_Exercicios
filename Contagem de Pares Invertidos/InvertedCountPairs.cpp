@@ -64,10 +64,22 @@ int countInversions(vector<int>& arr) {
 }
 
 int main() {
-    vector<int> arr = {4, 2, 1, 3, 5};
+
+    int n, i;
+    cout << "Digite 5 números que entrarão no vetor para realizar a contagem de pares invertidos: ";
+
+    vector<int> arr;
+    //{4, 2, 1, 3, 5};
+
+    for(i = 0; i < 5; i++) {
+        cin >> n;
+        arr.push_back(n);
+    }
+    
     int inversions = countInversions(arr);
 
-    cout << "O número de inversões no vetor é: " << inversions << endl;
+    cout << endl;
+    cout << "O número de inversões no vetor é: " << inversions << endl << endl;
 
     return 0;
 }
