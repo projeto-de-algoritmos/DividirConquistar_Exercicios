@@ -33,8 +33,7 @@ Além disso, foi desenvolvido um código em C++, o qual representa o algoritmo d
 
 ![Image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/71900095/54ceef45-9d7f-481f-a2f7-d23725a3cb91)
 ![Submit](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/71900095/aceda431-53b6-4192-9091-9657c45a87b8)
-
-
+[Codigo](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/tree/master/String%20to%20Integer%20(atoi))
 
 ## Algoritmo de Contagem de Inversões - Contagem de Pares Invertidos
 
