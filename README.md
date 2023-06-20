@@ -12,7 +12,8 @@
 ## Sobre 
 O presente projeto foi desenvolvido durante a disciplina de Projeto de Algoritmos do curso de Engenharia de Software da Universidade de Brasília com o intuito de aplicar conhecimentos adquiridos no módulo Dividir e Conquistar.
 
-Nesse sentido, foram selecionados e resolvidos 2 exercícios no que tange a algoritmos relativos ao tema do módulo atual.
+Nesse sentido, foram selecionados e resolvidos 3 exercícios no que tange a algoritmos relativos ao tema do módulo atual.
+
 Além disso, foi desenvolvido um código em C++, o qual representa o algoritmo de contagem de inversões, no que tange o conteúdo de Divisão e Conquista.
 
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/72623771/86a95fc0-d6aa-4186-a956-688ca09d0256)
@@ -27,6 +28,13 @@ Além disso, foi desenvolvido um código em C++, o qual representa o algoritmo d
 
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/72623771/57b09130-e201-4e9e-b4ac-8bd6f21c5941)
 [Código](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/tree/66f385924164b6ea7c5d1e18c4f05ec0bb57ecb2/Multiply%20Strings)
+
+## Exercício 3 - String to Integer (atoi)
+
+![Image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/71900095/54ceef45-9d7f-481f-a2f7-d23725a3cb91)
+![Submit](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/71900095/aceda431-53b6-4192-9091-9657c45a87b8)
+
+
 
 ## Algoritmo de Contagem de Inversões - Contagem de Pares Invertidos
 
