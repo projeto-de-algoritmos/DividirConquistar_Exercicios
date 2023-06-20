@@ -53,7 +53,8 @@ O código do programa se encontra na pasta Contagem de Pares Invertidos, nomeado
 ### Screenshot
 ![Screenshot_2](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/71900095/15f094b0-3b9f-41d5-ac0d-7a3b283b713f)
 
-## Vídeo
+## Vídeo de apresentação
+[dividir&conquistar](https://youtu.be/7YspzTVK-VI)
 
 
 
