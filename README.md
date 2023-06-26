@@ -54,7 +54,9 @@ O código do programa se encontra na pasta Contagem de Pares Invertidos, nomeado
 ![Screenshot_2](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/assets/71900095/15f094b0-3b9f-41d5-ac0d-7a3b283b713f)
 
 ## Vídeo de apresentação
-[dividir&conquistar](https://youtu.be/7YspzTVK-VI)
+O arquivo do vídeo (.mp4) se encontra na seguinte pasta -> [video](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios/tree/master/video)
+
+Além disso, caso o estudante queira visualizar o vídeo diretamente pelo Youtube, segue o link: [dividir&conquistar](https://youtu.be/7YspzTVK-VI)
 
 
 
